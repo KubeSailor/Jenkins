@@ -3,7 +3,7 @@ node {
 
     stage('SCM'){
 
-        git 'https://github.com/immurali5/game-of-life.git'
+        git 'https://github.com/satyamuralidhar/game-of-life.git'
 
     }
 
